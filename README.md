@@ -1,12 +1,7 @@
-- 
-- 
-- 👋 Hi, I’m @laisv123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+# Sobre mim
+- 👋 Ola meu nome é @laisv123
+- 👍1:meu emaill de contato é @lais.borges@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-laisv123/laisv123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
